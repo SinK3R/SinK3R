@@ -14,8 +14,7 @@
 <div>
   <a href="mailto:brunoskidrow@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://discord.gg/204296695901585408" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    
 </div>
   
-![](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
+
 
